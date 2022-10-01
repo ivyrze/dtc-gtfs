@@ -10,5 +10,5 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,p
 910945,,Millender Center,,42.33027342,-83.04200099,,0,,,1
 910944,,Financial District,,42.32868045,-83.04669126,,0,,,1
 910943,,Joe Louis Arena,,42.32523254,-83.05267078,,0,,,1
-910942,,Cobo Center,,42.32821152,-83.04984632,,0,,,1
+910942,,Huntington Place,,42.32821152,-83.04984632,,0,,,1
 910941,,Fort/Cass,,42.32950516,-83.05115031,,0,,,1
