@@ -1,0 +1,2 @@
+fare_id,price,currency_type,payment_method,transfers
+free,0,USD,1,
