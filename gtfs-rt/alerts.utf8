@@ -1,0 +1,77 @@
+header {
+    gtfs_realtime_version: "2.0"
+    incrementality: FULL_DATASET
+    timestamp: 1664668800
+}
+entity {
+    id: "0"
+    alert {
+        active_period {
+            start: 1653004800
+        }
+        informed_entity {
+            stop_id: "910947"
+        }
+        effect: NO_SERVICE
+        header_text {
+            translation {
+                text: "Station at Bricktown closed"
+                language: "en"
+            }
+        }
+        description_text {
+            translation {
+                text: "Trains will not service Bricktown until further notice."
+                language: "en"
+            }
+        }
+    }
+}
+entity {
+    id: "1"
+    alert {
+        active_period {
+            start: 1653004800
+        }
+        informed_entity {
+            stop_id: "910949"
+        }
+        effect: NO_SERVICE
+        header_text {
+            translation {
+                text: "Station at Cadillac Center closed"
+                language: "en"
+            }
+        }
+        description_text {
+            translation {
+                text: "Trains will not service Cadillac Center until further notice."
+                language: "en"
+            }
+        }
+    }
+}
+entity {
+    id: "2"
+    alert {
+        active_period {
+            start: 1653004800
+        }
+        informed_entity {
+            stop_id: "910939"
+        }
+        effect: NO_SERVICE
+        header_text {
+            translation {
+                text: "Station at Times Square closed"
+                language: "en"
+            }
+        }
+        description_text {
+            translation {
+                text: "Trains will not service Times Square until further notice."
+                language: "en"
+            }
+        }
+    }
+}
