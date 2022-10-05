@@ -21,6 +21,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,p
 601,,Financial District Entry,,42.32875628,-83.04650730,,2,6,,1
 602,,Financial District Exit,,42.32861519,-83.04683292,,2,6,,0
 7,,Millender Center,,42.33027342,-83.04200099,,0,,,1
+701,,Millender Center Tunnel Store Entry,,42.33032636,-83.04214554,,2,7,,1
+702,,Millender Center Main Entry,,42.33016411,-83.04197613,,2,7,,0
+703,,Millender Center Courtyard Marriott Entry,,42.33026104,-83.04166518,,2,7,,0
+704,,Millender Center Renaissance Center Skywalk Entry,,42.33032696,-83.04148409,,2,7,,1
 8,,Renaissance Center,,42.33015676,-83.03998301,,0,,,1
 9,,Bricktown,,42.33332616,-83.04119406,,0,,,1
 10,,Greektown,,42.3346172,-83.04241931,,0,,,1
