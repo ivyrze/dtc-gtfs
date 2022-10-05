@@ -18,6 +18,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,p
 5,,West Riverfront,,42.32523254,-83.05267078,,0,,,1
 501,,West Riverfront Entry/Exit,,42.32519206,-83.05256325,,2,5,,1
 6,,Financial District,,42.32868045,-83.04669126,,0,,,1
+601,,Financial District Entry,,42.32875628,-83.04650730,,2,6,,1
+602,,Financial District Exit,,42.32861519,-83.04683292,,2,6,,0
 7,,Millender Center,,42.33027342,-83.04200099,,0,,,1
 8,,Renaissance Center,,42.33015676,-83.03998301,,0,,,1
 9,,Bricktown,,42.33332616,-83.04119406,,0,,,1
