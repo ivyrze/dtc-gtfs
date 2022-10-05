@@ -9,6 +9,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,p
 301,,Fort/Cass Entry,,42.32941524,-83.05103222,,2,3,,1
 302,,Fort/Cass Exit,,42.32963813,-83.05116015,,2,3,,0
 4,,Huntington Place,,42.32821152,-83.04984632,,0,,,1
+401,,Huntington Place Riverfront Atrium Entry,,42.32570051,-83.04734756,,2,4,,1
+402,,Huntington Place West Congress Atrium Entry,,42.32845592,-83.04946505,,2,4,,0
+403,,Huntington Place North Washington Hall A Entry,,42.32816232,-83.04905685,,2,4,,0
+404,,Huntington Place North Washington Hall B Entry,,42.32744556,-83.04849597,,2,4,,0
+405,,Huntington Place South Washington Entry,,42.32711243,-83.04815223,,2,4,,1
+406,,Huntington Place West Jefferson Entry,,42.32673417,-83.04793866,,2,4,,1
 5,,West Riverfront,,42.32523254,-83.05267078,,0,,,1
 6,,Financial District,,42.32868045,-83.04669126,,0,,,1
 7,,Millender Center,,42.33027342,-83.04200099,,0,,,1
