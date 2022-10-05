@@ -6,6 +6,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,p
 201,,Michigan Entry,,42.33146385,-83.05215093,,2,2,,1
 202,,Michigan Exit,,42.33124002,-83.05208720,,2,2,,0
 3,,Fort/Cass,,42.32950516,-83.05115031,,0,,,1
+301,,Fort/Cass Entry,,42.32941524,-83.05103222,,2,3,,1
+302,,Fort/Cass Exit,,42.32963813,-83.05116015,,2,3,,0
 4,,Huntington Place,,42.32821152,-83.04984632,,0,,,1
 5,,West Riverfront,,42.32523254,-83.05267078,,0,,,1
 6,,Financial District,,42.32868045,-83.04669126,,0,,,1
