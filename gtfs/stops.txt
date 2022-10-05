@@ -16,6 +16,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,p
 405,,Huntington Place South Washington Entry,,42.32711243,-83.04815223,,2,4,,1
 406,,Huntington Place West Jefferson Entry,,42.32673417,-83.04793866,,2,4,,1
 5,,West Riverfront,,42.32523254,-83.05267078,,0,,,1
+501,,West Riverfront Entry/Exit,,42.32519206,-83.05256325,,2,5,,1
 6,,Financial District,,42.32868045,-83.04669126,,0,,,1
 7,,Millender Center,,42.33027342,-83.04200099,,0,,,1
 8,,Renaissance Center,,42.33015676,-83.03998301,,0,,,1
