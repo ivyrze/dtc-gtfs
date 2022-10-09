@@ -26,6 +26,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,p
 703,,Millender Center Courtyard Marriott Entry,,42.33026104,-83.04166518,,2,7,,0
 704,,Millender Center Renaissance Center Skywalk Entry,,42.33032696,-83.04148409,,2,7,,1
 8,,Renaissance Center,,42.33015676,-83.03998301,,0,,,1
+801,,Renaissance Center Jefferson Entry,,42.32991808,-83.04006482,,2,8,,1
+802,,Renaissance Center Level 2 Entry,,42.32987823,-83.04005088 42.32987823662326,,2,8,,1
 9,,Bricktown,,42.33332616,-83.04119406,,0,,,1
 10,,Greektown,,42.3346172,-83.04241931,,0,,,1
 11,,Cadillac Center,,42.33370996,-83.04615726,,0,,,1
