@@ -41,3 +41,5 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,p
 1201,,Broadway Entry,,42.33556913,-83.04817934,,2,12,,1
 1202,,Broadway Exit,,42.33536338,-83.0480767,,2,12,,0
 13,,Grand Circus Park,,42.3357815636203,-83.0505922275407,,0,,,1
+1301,,Grand Circus Park Entry,,42.33580433,-83.05062895,,2,13,,1
+1302,,Grand Circus Park Exit,,42.33579365,-83.05067481,,2,13,,0
