@@ -35,5 +35,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,p
 1001,,Greektown Entry,,42.33469298,-83.04232034,,2,10,,1
 1002,,Greektown Exit,,42.33476888,-83.04266060,,2,10,,0
 11,,Cadillac Center,,42.33370996,-83.04615726,,0,,,1
+1101,,Cadillac Center Entry,,42.33364383,-83.04633033,,2,11,,1
+1102,,Cadillac Center Exit,,42.33381725,-83.04605553,,2,11,,0
 12,,Broadway,,42.33544893,-83.04821272,,0,,,1
 13,,Grand Circus Park,,42.3357815636203,-83.0505922275407,,0,,,1
