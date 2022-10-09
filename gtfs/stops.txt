@@ -32,6 +32,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,p
 901,,Bricktown Entry,,42.33347251,-83.04126156,,2,9,,1
 902,,Bricktown Exit,,42.33320515,-83.04114789,,2,9,,0
 10,,Greektown,,42.3346172,-83.04241931,,0,,,1
+1001,,Greektown Entry,,42.33469298,-83.04232034,,2,10,,1
+1002,,Greektown Exit,,42.33476888,-83.04266060,,2,10,,0
 11,,Cadillac Center,,42.33370996,-83.04615726,,0,,,1
 12,,Broadway,,42.33544893,-83.04821272,,0,,,1
 13,,Grand Circus Park,,42.3357815636203,-83.0505922275407,,0,,,1
