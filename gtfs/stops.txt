@@ -38,4 +38,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,p
 1101,,Cadillac Center Entry,,42.33364383,-83.04633033,,2,11,,1
 1102,,Cadillac Center Exit,,42.33381725,-83.04605553,,2,11,,0
 12,,Broadway,,42.33544893,-83.04821272,,0,,,1
+1201,,Broadway Entry,,42.33556913,-83.04817934,,2,12,,1
+1202,,Broadway Exit,,42.33536338,-83.0480767,,2,12,,0
 13,,Grand Circus Park,,42.3357815636203,-83.0505922275407,,0,,,1
