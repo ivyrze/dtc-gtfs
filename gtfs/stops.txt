@@ -35,7 +35,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,p
 8,,Renaissance Center,,42.33015676,-83.03998301,,1,,,1
 800,,Renaissance Center,,42.33015676,-83.03998301,,0,8,,1
 801,,Renaissance Center Jefferson Entrance,,42.32991808,-83.04006482,,2,8,,1
-802,,Renaissance Center Level 2 Entrance,,42.32987823,-83.04005088 42.32987823662326,,2,8,,1
+802,,Renaissance Center Level 2 Entrance,,42.32987823,-83.04005088,,2,8,,1
 9,,Bricktown,,42.33332616,-83.04119406,,1,,,1
 900,,Bricktown,,42.33332616,-83.04119406,,0,9,,1
 901,,Bricktown Entrance,,42.33347251,-83.04126156,,2,9,,0
