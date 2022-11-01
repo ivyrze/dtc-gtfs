@@ -33,3 +33,6 @@ pathway_id,from_stop_id,to_stop_id,pathway_mode,is_bidirectional,length,traversa
 32,413,403,1,0,,,,,,,
 33,413,404,1,0,,,,,,,
 34,411,400,1,1,,,,,,Detroit People Mover,
+35,501,502,1,1,,,,,,,
+36,502,503,5,1,,,,,,,
+37,503,500,1,1,,,,,,,
