@@ -1,1 +1,31 @@
 level_id,level_index,level_name
+100,0,SL (Street Level)
+101,1,T (Train)
+200,0,SL (Street Level)
+201,1,C (Concourse)
+300,0,SL (Street Level)
+301,1,T (Train)
+400,0,C (Garage)
+401,1,1 (Level 1)
+402,2,2 (Level 2)
+403,4,4 (Level 4)
+500,0,SL (Street Level)
+501,2,T (Train)
+600,0,SL (Street Level)
+601,1,T (Train)
+700,0,Level 1
+701,1,Level 2
+702,4,Level 5
+800,0,Level 1
+801,1,Level 2
+802,2,Level 3
+900,0,SL (Street Level)
+901,1,T (Train)
+1000,0,Level 1
+1001,1,Level 2
+1100,0,SL (Street Level)
+1101,1,T (Train)
+1200,0,SL (Street Level)
+1201,1,T (Train)
+1300,0,G (Ground)
+1301,1,P (Platform)

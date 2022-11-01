@@ -1,74 +1,92 @@
-stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
-1,,Times Square,,42.33357857,-83.05215904,,1,,,1
-100,,Times Square,,42.33357857,-83.05215904,,0,1,,1
-101,,Times Square Entrance,,42.33359419,-83.05190366,,2,1,,0
-102,,Times Square Exit,,42.33376122,-83.05206133,,2,1,,2
-103,,Times Square Elevator,,42.33352569,-83.05204010,,3,1,,
-2,,Michigan,,42.33136301,-83.0521199,,1,,,1
-200,,Michigan,,42.33136301,-83.0521199,,0,2,,1
-201,,Michigan Entrance,,42.33146385,-83.05215093,,2,2,,0
-202,,Michigan Exit,,42.33124002,-83.05208720,,2,2,,2
-203,,Michigan Elevator,,42.33143383,-83.05206705,,3,2,,
-3,,Fort/Cass,,42.32950516,-83.05115031,,1,,,1
-300,,Fort/Cass,,42.32950516,-83.05115031,,0,3,,1
-301,,Fort/Cass Entrance,,42.32941524,-83.05103222,,2,3,,1
-302,,Fort/Cass Exit,,42.32963813,-83.05116015,,2,3,,2
-303,,Fort/Cass Elevator,,42.32943547,-83.05112664,,3,3,,
-4,,Huntington Place,,42.32821152,-83.04984632,,1,,,1
-400,,Huntington Place,,42.32821152,-83.04984632,,0,4,,1
-401,,Huntington Place Riverfront Atrium Entrance,,42.32570051,-83.04734756,,2,4,,1
-402,,Huntington Place Congress Garage Entrance,,42.32840611,-83.04986701,,2,4,,1
-403,,Huntington Place North Washington Hall A Exit,,42.32816232,-83.04905685,,2,4,,2
-404,,Huntington Place North Washington Hall B Exit,,42.32744556,-83.04849597,,2,4,,2
-405,,Huntington Place South Washington Entrance,,42.32711243,-83.04815223,,2,4,,0
-406,,Huntington Place West Jefferson Entrance,,42.32660821,-83.04775835,,2,4,,1
-407,,Huntington Place Elevator,,42.32811426,-83.04945902,,3,4,,
-408,,Huntington Place Elevator,,42.32762744,-83.04909290,,3,4,,
-409,,Huntington Place Elevator,,42.32578091,-83.04769275,,3,4,,
-5,,West Riverfront,,42.32523254,-83.05267078,,1,,,1
-500,,West Riverfront,,42.32523254,-83.05267078,,0,5,,1
-501,,West Riverfront Entrance/Exit,,42.32519206,-83.05256325,,2,5,,1
-502,,West Riverfront Elevator,,42.32512356,-83.05264676,,3,5,,
-6,,Financial District,,42.32868045,-83.04669126,,1,,,1
-600,,Financial District,,42.32868045,-83.04669126,,0,6,,1
-601,,Financial District Entrance,,42.32875628,-83.04650730,,2,6,,0
-602,,Financial District Exit,,42.32861519,-83.04683292,,2,6,,2
-603,,Financial District Elevator,,42.32867434,-83.04653439,,3,6,,
-7,,Millender Center,,42.33027342,-83.04200099,,1,,,1
-700,,Millender Center,,42.33027342,-83.04200099,,0,7,,1
-701,,Millender Center Tunnel Store Entrance,,42.33032636,-83.04214554,,2,7,,1
-702,,Millender Center Main Entrance,,42.33016411,-83.04197613,,2,7,,0
-703,,Millender Center Courtyard Marriott Entrance,,42.33026104,-83.04166518,,2,7,,0
-704,,Millender Center Renaissance Center Skywalk Entrance,,42.33032696,-83.04148409,,2,7,,1
-705,,Millender Center Elevator,,42.33028791,-83.04181632,,3,7,,
-8,,Renaissance Center,,42.33015676,-83.03998301,,1,,,1
-800,,Renaissance Center,,42.33015676,-83.03998301,,0,8,,1
-801,,Renaissance Center Jefferson Entrance,,42.32991808,-83.04006482,,2,8,,1
-802,,Renaissance Center Level 2 Entrance,,42.32987823,-83.04005088,,2,8,,1
-803,,Renaissance Center Elevator,,42.32989342,-83.03999349,,3,8,,
-804,,Renaissance Center Elevator,,42.33012006,-83.04008911,,3,8,,
-9,,Bricktown,,42.33332616,-83.04119406,,1,,,1
-900,,Bricktown,,42.33332616,-83.04119406,,0,9,,1
-901,,Bricktown Entrance,,42.33347251,-83.04126156,,2,9,,0
-902,,Bricktown Exit,,42.33320515,-83.04114789,,2,9,,2
-903,,Bricktown Elevator,,42.33354446,-83.04118297,,3,9,,
-10,,Greektown,,42.3346172,-83.04241931,,1,,,1
-1000,,Greektown,,42.3346172,-83.04241931,,0,10,,1
-1001,,Greektown Entrance,,42.33469298,-83.04232034,,2,10,,1
-1002,,Greektown Exit,,42.33476888,-83.04266060,,2,10,,2
-1003,,Greektown Elevator,,42.33471141,-83.04217755,,3,10,,
-11,,Cadillac Center,,42.33370996,-83.04615726,,1,,,1
-1100,,Cadillac Center,,42.33370996,-83.04615726,,0,11,,1
-1101,,Cadillac Center Entrance,,42.33364383,-83.04633033,,2,11,,0
-1102,,Cadillac Center Exit,,42.33381725,-83.04605553,,2,11,,2
-1103,,Cadillac Center Elevator,,42.33367244,-83.04618806,,3,11,,
-12,,Broadway,,42.33544893,-83.04821272,,1,,,1
-1200,,Broadway,,42.33544893,-83.04821272,,0,12,,1
-1201,,Broadway Entrance,,42.33556913,-83.04817934,,2,12,,0
-1202,,Broadway Exit,,42.33536338,-83.0480767,,2,12,,2
-1203,,Broadway Elevator,,42.33551483,-83.04818981,,3,12,,
-13,,Grand Circus Park,,42.3357815636203,-83.0505922275407,,1,,,1
-1300,,Grand Circus Park,,42.3357815636203,-83.0505922275407,,0,13,,1
-1301,,Grand Circus Park Entrance,,42.33580433,-83.05062895,,2,13,,1
-1302,,Grand Circus Park Exit,,42.33579365,-83.05067481,,2,13,,2
-1303,,Grand Circus Park Elevator,,42.33579880,-83.05060442,,3,13,,
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding,level_id
+1,,Times Square,,42.33357857,-83.05215904,,1,,,1,
+100,,Times Square,,42.33357857,-83.05215904,,0,1,,1,101
+101,,Times Square Entrance,,42.33359419,-83.05190366,,2,1,,0,100
+102,,Times Square Exit,,42.33376122,-83.05206133,,2,1,,2,100
+103,,Times Square Elevator,,42.33352569,-83.05204010,,3,1,,,100
+104,,Times Square Elevator,,42.33352569,-83.05204010,,3,1,,,101
+2,,Michigan,,42.33136301,-83.0521199,,1,,,1,
+200,,Michigan,,42.33136301,-83.0521199,,0,2,,1,201
+201,,Michigan Entrance,,42.33146385,-83.05215093,,2,2,,0,200
+202,,Michigan Exit,,42.33124002,-83.05208720,,2,2,,2,200
+203,,Michigan Elevator,,42.33143383,-83.05206705,,3,2,,,200
+204,,Michigan Elevator,,42.33143383,-83.05206705,,3,2,,,201
+3,,Fort/Cass,,42.32950516,-83.05115031,,1,,,1,
+300,,Fort/Cass,,42.32950516,-83.05115031,,0,3,,1,301
+301,,Fort/Cass Entrance,,42.32941524,-83.05103222,,2,3,,1,300
+302,,Fort/Cass Exit,,42.32963813,-83.05116015,,2,3,,2,300
+303,,Fort/Cass Elevator,,42.32943547,-83.05112664,,3,3,,,300
+304,,Fort/Cass Elevator,,42.32943547,-83.05112664,,3,3,,,301
+4,,Huntington Place,,42.32821152,-83.04984632,,1,,,1,
+400,,Huntington Place,,42.32821152,-83.04984632,,0,4,,1,403
+401,,Huntington Place Riverfront Atrium Entrance,,42.32570051,-83.04734756,,2,4,,1,401
+402,,Huntington Place Congress Garage Entrance,,42.32840611,-83.04986701,,2,4,,1,400
+403,,Huntington Place North Washington Hall A Exit,,42.32816232,-83.04905685,,2,4,,2,402
+404,,Huntington Place North Washington Hall B Exit,,42.32744556,-83.04849597,,2,4,,2,402
+405,,Huntington Place South Washington Entrance,,42.32711243,-83.04815223,,2,4,,0,402
+406,,Huntington Place West Jefferson Entrance,,42.32660821,-83.04775835,,2,4,,1,402
+407,,Huntington Place Elevator,,42.32811426,-83.04945902,,3,4,,,400
+408,,Huntington Place Elevator,,42.32811426,-83.04945902,,3,4,,,402
+409,,Huntington Place Elevator,,42.32811426,-83.04945902,,3,4,,,403
+410,,Huntington Place Elevator,,42.32762744,-83.04909290,,3,4,,,402
+411,,Huntington Place Elevator,,42.32762744,-83.04909290,,3,4,,,403
+412,,Huntington Place Elevator,,42.32578091,-83.04769275,,3,4,,,401
+413,,Huntington Place Elevator,,42.32578091,-83.04769275,,3,4,,,402
+5,,West Riverfront,,42.32523254,-83.05267078,,1,,,1,
+500,,West Riverfront,,42.32523254,-83.05267078,,0,5,,1,501
+501,,West Riverfront Entrance/Exit,,42.32519206,-83.05256325,,2,5,,1,500
+502,,West Riverfront Elevator,,42.32512356,-83.05264676,,3,5,,,500
+503,,West Riverfront Elevator,,42.32512356,-83.05264676,,3,5,,,501
+6,,Financial District,,42.32868045,-83.04669126,,1,,,1,
+600,,Financial District,,42.32868045,-83.04669126,,0,6,,1,601
+601,,Financial District Entrance,,42.32875628,-83.04650730,,2,6,,0,600
+602,,Financial District Exit,,42.32861519,-83.04683292,,2,6,,2,600
+603,,Financial District Elevator,,42.32867434,-83.04653439,,3,6,,,600
+604,,Financial District Elevator,,42.32867434,-83.04653439,,3,6,,,601
+7,,Millender Center,,42.33027342,-83.04200099,,1,,,1,
+700,,Millender Center,,42.33027342,-83.04200099,,0,7,,1,702
+701,,Millender Center Tunnel Store Entrance,,42.33032636,-83.04214554,,2,7,,1,700
+702,,Millender Center Main Entrance,,42.33016411,-83.04197613,,2,7,,0,700
+703,,Millender Center Courtyard Marriott Entrance,,42.33026104,-83.04166518,,2,7,,0,700
+704,,Millender Center Renaissance Center Skywalk Entrance,,42.33032696,-83.04148409,,2,7,,1,701
+705,,Millender Center Elevator,,42.33028791,-83.04181632,,3,7,,,700
+706,,Millender Center Elevator,,42.33028791,-83.04181632,,3,7,,,701
+707,,Millender Center Elevator,,42.33028791,-83.04181632,,3,7,,,702
+8,,Renaissance Center,,42.33015676,-83.03998301,,1,,,1,
+800,,Renaissance Center,,42.33015676,-83.03998301,,0,8,,1,802
+801,,Renaissance Center Jefferson Entrance,,42.32991808,-83.04006482,,2,8,,1,800
+802,,Renaissance Center Level 2 Entrance,,42.32987823,-83.04005088,,2,8,,1,801
+803,,Renaissance Center Elevator,,42.32989342,-83.03999349,,3,8,,,800
+804,,Renaissance Center Elevator,,42.32989342,-83.03999349,,3,8,,,801
+805,,Renaissance Center Elevator,,42.33012006,-83.04008911,,3,8,,,801
+806,,Renaissance Center Elevator,,42.33012006,-83.04008911,,3,8,,,802
+9,,Bricktown,,42.33332616,-83.04119406,,1,,,1,
+900,,Bricktown,,42.33332616,-83.04119406,,0,9,,1,901
+901,,Bricktown Entrance,,42.33347251,-83.04126156,,2,9,,0,900
+902,,Bricktown Exit,,42.33320515,-83.04114789,,2,9,,2,900
+903,,Bricktown Elevator,,42.33354446,-83.04118297,,3,9,,,900
+904,,Bricktown Elevator,,42.33354446,-83.04118297,,3,9,,,901
+10,,Greektown,,42.3346172,-83.04241931,,1,,,1,
+1000,,Greektown,,42.3346172,-83.04241931,,0,10,,1,1001
+1001,,Greektown Entrance,,42.33469298,-83.04232034,,2,10,,1,1000
+1002,,Greektown Exit,,42.33476888,-83.04266060,,2,10,,2,1000
+1003,,Greektown Elevator,,42.33471141,-83.04217755,,3,10,,,1000
+1004,,Greektown Elevator,,42.33471141,-83.04217755,,3,10,,,1001
+11,,Cadillac Center,,42.33370996,-83.04615726,,1,,,1,
+1100,,Cadillac Center,,42.33370996,-83.04615726,,0,11,,1,1101
+1101,,Cadillac Center Entrance,,42.33364383,-83.04633033,,2,11,,0,1100
+1102,,Cadillac Center Exit,,42.33381725,-83.04605553,,2,11,,2,1100
+1103,,Cadillac Center Elevator,,42.33367244,-83.04618806,,3,11,,,1100
+1104,,Cadillac Center Elevator,,42.33367244,-83.04618806,,3,11,,,1101
+12,,Broadway,,42.33544893,-83.04821272,,1,,,1,
+1200,,Broadway,,42.33544893,-83.04821272,,0,12,,1,1201
+1201,,Broadway Entrance,,42.33556913,-83.04817934,,2,12,,0,1200
+1202,,Broadway Exit,,42.33536338,-83.0480767,,2,12,,2,1200
+1203,,Broadway Elevator,,42.33551483,-83.04818981,,3,12,,,1200
+1204,,Broadway Elevator,,42.33551483,-83.04818981,,3,12,,,1201
+13,,Grand Circus Park,,42.3357815636203,-83.0505922275407,,1,,,1,
+1300,,Grand Circus Park,,42.3357815636203,-83.0505922275407,,0,13,,1,1301
+1301,,Grand Circus Park Entrance,,42.33580433,-83.05062895,,2,13,,1,1300
+1302,,Grand Circus Park Exit,,42.33579365,-83.05067481,,2,13,,2,1300
+1303,,Grand Circus Park Elevator,,42.33579880,-83.05060442,,3,13,,,1300
+1304,,Grand Circus Park Elevator,,42.33579880,-83.05060442,,3,13,,,1301
