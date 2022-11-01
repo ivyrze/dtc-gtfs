@@ -10,7 +10,7 @@ entity {
             start: 1653004800
         }
         informed_entity {
-            stop_id: "910947"
+            stop_id: "900"
         }
         effect: NO_SERVICE
         header_text {
@@ -34,7 +34,7 @@ entity {
             start: 1653004800
         }
         informed_entity {
-            stop_id: "910949"
+            stop_id: "1100"
         }
         effect: NO_SERVICE
         header_text {
@@ -58,7 +58,7 @@ entity {
             start: 1653004800
         }
         informed_entity {
-            stop_id: "910939"
+            stop_id: "100"
         }
         effect: NO_SERVICE
         header_text {
