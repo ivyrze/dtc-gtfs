@@ -1,2 +1,2 @@
 fare_id,price,currency_type,payment_method,transfers
-single,0.75,USD,1,0
+single,0.75,USD,1,1
