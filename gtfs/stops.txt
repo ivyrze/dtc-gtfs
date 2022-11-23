@@ -62,7 +62,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,p
 806,,Renaissance Center Elevator,,42.33012006,-83.04008911,,3,8,,,802
 9,,Bricktown,,42.33332616,-83.04119406,,1,,,1,
 900,,Bricktown,,42.33332616,-83.04119406,,0,9,,1,901
-901,,Bricktown Entrance,,42.33347251,-83.04126156,,2,9,,0,900
+901,,Bricktown Entrance,,42.33347251,-83.04126156,,2,9,,1,900
 902,,Bricktown Exit,,42.33320515,-83.04114789,,2,9,,2,900
 903,,Bricktown Elevator,,42.33354446,-83.04118297,,3,9,,,900
 904,,Bricktown Elevator,,42.33354446,-83.04118297,,3,9,,,901
