@@ -48,14 +48,11 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,p
 701,,Millender Center Tunnel Store Entrance,,42.33032636,-83.04214554,,2,7,,1,700
 702,,Millender Center Main Entrance,,42.33016411,-83.04197613,,2,7,,0,700
 703,,Millender Center Courtyard Marriott Entrance,,42.33026104,-83.04166518,,2,7,,0,700
-704,,Millender Center Renaissance Center Skywalk Entrance,,42.33032696,-83.04148409,,2,7,,1,701
 705,,Millender Center Elevator,,42.33028791,-83.04181632,,3,7,,,700
-706,,Millender Center Elevator,,42.33028791,-83.04181632,,3,7,,,701
 707,,Millender Center Elevator,,42.33028791,-83.04181632,,3,7,,,702
 8,,Renaissance Center,,42.33015676,-83.03998301,,1,,,1,
 800,,Renaissance Center,,42.33015676,-83.03998301,,0,8,,1,802
 801,,Renaissance Center Jefferson Entrance,,42.32991808,-83.04006482,,2,8,,1,800
-802,,Renaissance Center Level 2 Entrance,,42.32987823,-83.04005088,,2,8,,1,801
 803,,Renaissance Center Elevator,,42.32989342,-83.03999349,,3,8,,,800
 804,,Renaissance Center Elevator,,42.32989342,-83.03999349,,3,8,,,801
 805,,Renaissance Center Elevator,,42.33012006,-83.04008911,,3,8,,,801

@@ -14,7 +14,6 @@ level_id,level_index,level_name
 600,0,SL (Street Level)
 601,1,T (Train)
 700,0,Level 1
-701,1,Level 2
 702,4,Level 5
 800,0,Level 1
 801,1,Level 2
