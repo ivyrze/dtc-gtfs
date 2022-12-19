@@ -1,35 +1,10 @@
 header {
     gtfs_realtime_version: "2.0"
     incrementality: FULL_DATASET
-    timestamp: 1668827900
+    timestamp: 1671490127
 }
 entity {
     id: "0"
-    alert {
-        active_period {
-            start: 1653004800
-            end: 1669006800
-        }
-        informed_entity {
-            stop_id: "900"
-        }
-        effect: NO_SERVICE
-        header_text {
-            translation {
-                text: "Station at Bricktown closed"
-                language: "en"
-            }
-        }
-        description_text {
-            translation {
-                text: "Trains will not service Bricktown until further notice."
-                language: "en"
-            }
-        }
-    }
-}
-entity {
-    id: "1"
     alert {
         active_period {
             start: 1653004800
@@ -53,7 +28,7 @@ entity {
     }
 }
 entity {
-    id: "2"
+    id: "1"
     alert {
         active_period {
             start: 1653004800
