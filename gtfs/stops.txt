@@ -44,7 +44,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,p
 603,,Financial District Elevator,,42.32867434,-83.04653439,,3,6,,,600
 604,,Financial District Elevator,,42.32867434,-83.04653439,,3,6,,,601
 7,,Millender Center,,42.33027342,-83.04200099,,1,,,1,
-700,,Millender Center,,42.33027342,-83.04200099,,0,7,,1,702
+700,,Millender Center,,42.33027342,-83.04200099,,0,7,,1,701
 701,,Millender Center Tunnel Store Entrance,,42.33032636,-83.04214554,,2,7,,1,700
 702,,Millender Center Main Entrance,,42.33016411,-83.04197613,,2,7,,0,700
 703,,Millender Center Courtyard Marriott Entrance,,42.33026104,-83.04166518,,2,7,,0,700
