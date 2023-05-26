@@ -1,34 +1,10 @@
 header {
     gtfs_realtime_version: "2.0"
     incrementality: FULL_DATASET
-    timestamp: 1671490127
+    timestamp: 1685120400
 }
 entity {
     id: "0"
-    alert {
-        active_period {
-            start: 1653004800
-        }
-        informed_entity {
-            stop_id: "1100"
-        }
-        effect: NO_SERVICE
-        header_text {
-            translation {
-                text: "Station at Cadillac Center closed"
-                language: "en"
-            }
-        }
-        description_text {
-            translation {
-                text: "Trains will not service Cadillac Center until further notice."
-                language: "en"
-            }
-        }
-    }
-}
-entity {
-    id: "1"
     alert {
         active_period {
             start: 1653004800
