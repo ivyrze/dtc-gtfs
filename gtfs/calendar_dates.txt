@@ -1,10 +1,3 @@
 service_id,date,exception_type
-nyday,20221204,1
-nyday,20221211,1
-saturday,20221224,2
-xmaseve,20221224,1
-weekday,20221226,2
-nyday,20221226,1
-saturday,20221231,2
-nyeve,20221231,1
-nyday,20230101,1
+weekday,20230626,2
+friday,20230626,1
