@@ -1,27 +1,27 @@
 header {
     gtfs_realtime_version: "2.0"
     incrementality: FULL_DATASET
-    timestamp: 1685120400
+    timestamp: 1690209234
 }
 entity {
     id: "0"
     alert {
         active_period {
-            start: 1653004800
+            start: 1690209234
         }
         informed_entity {
-            stop_id: "100"
+            route_id: "22210"
         }
-        effect: NO_SERVICE
+        effect: ADDITIONAL_SERVICE
         header_text {
             translation {
-                text: "Station at Times Square closed"
+                text: "All stations have reopened"
                 language: "en"
             }
         }
         description_text {
             translation {
-                text: "Trains will not service Times Square until further notice."
+                text: "Trains are now stopping at all 13 stations."
                 language: "en"
             }
         }
