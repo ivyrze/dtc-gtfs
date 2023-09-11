@@ -7,21 +7,22 @@ entity {
     id: "0"
     alert {
         active_period {
-            start: 1690209234
+            start: 1694404800
+            end: 1694577599
         }
         informed_entity {
             route_id: "22210"
         }
-        effect: ADDITIONAL_SERVICE
+        effect: NO_SERVICE
         header_text {
             translation {
-                text: "All stations have reopened"
+                text: "Closed for track maintenance"
                 language: "en"
             }
         }
         description_text {
             translation {
-                text: "Trains are now stopping at all 13 stations."
+                text: "Rail grinding will be happening along the alignment throughout Sept 11 and 12."
                 language: "en"
             }
         }
