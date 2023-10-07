@@ -1,28 +1,133 @@
 header {
     gtfs_realtime_version: "2.0"
     incrementality: FULL_DATASET
-    timestamp: 1690209234
+    timestamp: 1696714317
 }
 entity {
     id: "0"
     alert {
         active_period {
-            start: 1694404800
-            end: 1694577599
+            start: 1696824001
+            end: 1697126399
         }
         informed_entity {
-            route_id: "22210"
+            stop_id: "200"
         }
+        cause: CONSTRUCTION
         effect: NO_SERVICE
         header_text {
             translation {
-                text: "Closed for track maintenance"
+                text: "Michigan station closed for construction"
                 language: "en"
             }
         }
         description_text {
             translation {
-                text: "Rail grinding will be happening along the alignment throughout Sept 11 and 12."
+                text: "The station will be temporarily closed from October 9 to 12."
+                language: "en"
+            }
+        }
+    }
+}
+entity {
+    id: "1"
+    alert {
+        active_period {
+            start: 1697169601
+            end: 1697471999
+        }
+        informed_entity {
+            stop_id: "900"
+        }
+        cause: CONSTRUCTION
+        effect: NO_SERVICE
+        header_text {
+            translation {
+                text: "Bricktown station closed for construction"
+                language: "en"
+            }
+        }
+        description_text {
+            translation {
+                text: "The station will be temporarily closed from October 13 to 16."
+                language: "en"
+            }
+        }
+    }
+}
+entity {
+    id: "2"
+    alert {
+        active_period {
+            start: 1697515201
+            end: 1697990399
+        }
+        informed_entity {
+            stop_id: "1200"
+        }
+        cause: CONSTRUCTION
+        effect: NO_SERVICE
+        header_text {
+            translation {
+                text: "Broadway station closed for construction"
+                language: "en"
+            }
+        }
+        description_text {
+            translation {
+                text: "The station will be temporarily closed from October 17 to 22."
+                language: "en"
+            }
+        }
+    }
+}
+entity {
+    id: "3"
+    alert {
+        active_period {
+            start: 1698033601
+            end: 1698335999
+        }
+        informed_entity {
+            stop_id: "1100"
+        }
+        cause: CONSTRUCTION
+        effect: NO_SERVICE
+        header_text {
+            translation {
+                text: "Cadillac Center station closed for construction"
+                language: "en"
+            }
+        }
+        description_text {
+            translation {
+                text: "The station will be temporarily closed from October 23 to 26."
+                language: "en"
+            }
+        }
+    }
+}
+entity {
+    id: "4"
+    alert {
+        active_period {
+            start: 1698379201
+            end: 1698767999
+        }
+        informed_entity {
+            stop_id: "300"
+        }
+        cause: CONSTRUCTION
+        effect: NO_SERVICE
+        header_text {
+            translation {
+                text: "Fort/Cass station closed for construction"
+                language: "en"
+            }
+        }
+        description_text {
+            translation {
+                text: "The station will be temporarily closed from October 27 to 31."
                 language: "en"
             }
         }
