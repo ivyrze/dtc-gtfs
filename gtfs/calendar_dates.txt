@@ -1,3 +1,3 @@
 service_id,date,exception_type
-weekday,20230626,2
-friday,20230626,1
+weekday,20231215,2
+weekday,20240101,2
