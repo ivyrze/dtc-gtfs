@@ -1,2 +1,2 @@
-route_id,route_short_name,route_long_name,route_desc,route_url,route_color,route_text_color,route_type
-22210,DPM,Detroit People Mover,,http://www.thepeoplemover.com/riding-info/schedule/,254a7a,ffffff,12
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_url,route_color,route_text_color,route_type
+22210,dpm,DPM,Detroit People Mover,,http://www.thepeoplemover.com/riding-info/schedule/,254a7a,ffffff,12
