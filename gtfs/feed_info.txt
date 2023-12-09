@@ -1,2 +1,2 @@
-feed_publisher_name,feed_publisher_url,feed_lang
-Detroit People Mover,http://www.thepeoplemover.com/,en
+feed_publisher_name,feed_publisher_url,feed_lang,feed_contact_url
+Detroit People Mover,http://www.thepeoplemover.com/,en,https://github.com/ivyrze/dtc-gtfs/issues
