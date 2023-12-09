@@ -1,2 +1,2 @@
 agency_id,agency_name,agency_url,agency_timezone,agency_phone
-,Detroit People Mover,http://www.thepeoplemover.com,America/Detroit,(313) 224-2160
+dpm,Detroit People Mover,http://www.thepeoplemover.com,America/Detroit,(313) 224-2160
